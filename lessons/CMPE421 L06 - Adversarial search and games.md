@@ -261,7 +261,7 @@ No pruning (slide 41): an average depends on every child, so one unseen leaf cou
 > Minimax: left $=\min(20,4,-2)=-2$, right $=\min(6,7)=6$, go right.
 > The average accepts the small risk of $-2$. The worst case does not.
 
-> [!question]- Check (section 7, pruning with bounds): All utilities lie in $[0,10]$. The first chance node is worth 7. The second chance node has 4 children with probability $\tfrac14$ each. After seeing only the leaf 1, can we prune? After seeing 1 and 3?
+> [!question]- Check (section 7, pruning with bounds): All utilities lie in $[0,10]$. A MAX root has two chance nodes. The first chance node is worth 7. The second chance node has 4 children with probability $\tfrac14$ each. After seeing only the leaf 1, can we prune? After seeing 1 and 3?
 > Best case after one leaf: the three unseen leaves are all 10. $(1+10+10+10)/4=31/4=7.75>7$. The node could still win: no prune.
 > Best case after two leaves: $(1+3+10+10)/4=24/4=6<7$. Even the best case loses to 7: prune the last two leaves.
 > Without the bound 10 we could never prune, because an unseen leaf could be arbitrarily large.
