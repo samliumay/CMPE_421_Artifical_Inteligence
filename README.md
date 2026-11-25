@@ -25,10 +25,10 @@ Open the folder as a vault in Obsidian to see the slide images and the folded an
 | L06 | [Adversarial search and games](<lessons/CMPE421 L06 - Adversarial search and games.md>) | 28 |
 | L07 | [MDPs, probability, Bayes nets, HMMs](<lessons/CMPE421 L07 - MDPs, probability, Bayes nets, HMMs.md>) | 28 |
 | L08 | [Logical agents](<lessons/CMPE421 L08 - Logical agents.md>) | 54 |
-| L09 | [Predicate logic and planning](<lessons/CMPE421 L09 - Predicate logic and planning.md>) | not yet |
+| L09 | [Predicate logic and planning](<lessons/CMPE421 L09 - Predicate logic and planning.md>) | 94 |
 | L10 | [Quantifying uncertainty](<lessons/CMPE421 L10 - Quantifying uncertainty.md>) | 39 |
 
-10 lessons, 368 check questions, 656 slide images.
+10 lessons, 462 check questions, 656 slide images.
 
 ## Folders
 
