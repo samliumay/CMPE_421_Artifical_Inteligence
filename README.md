@@ -20,7 +20,7 @@ Open the folder as a vault in Obsidian to see the slide images and the folded an
 | L01 | [What is AI](<lessons/CMPE421 L01 - What is AI.md>) | 24 |
 | L02 | [Intelligent agents](<lessons/CMPE421 L02 - Intelligent agents.md>) | 62 |
 | L03 | [Uninformed search](<lessons/CMPE421 L03 - Uninformed search.md>) | 45 |
-| L04 | [Informed and local search](<lessons/CMPE421 L04 - Informed and local search.md>) | not yet |
+| L04 | [Informed and local search](<lessons/CMPE421 L04 - Informed and local search.md>) | 56 |
 | L05 | [Constraint satisfaction problems](<lessons/CMPE421 L05 - Constraint satisfaction problems.md>) | 32 |
 | L06 | [Adversarial search and games](<lessons/CMPE421 L06 - Adversarial search and games.md>) | 28 |
 | L07 | [MDPs, probability, Bayes nets, HMMs](<lessons/CMPE421 L07 - MDPs, probability, Bayes nets, HMMs.md>) | 28 |
@@ -28,7 +28,7 @@ Open the folder as a vault in Obsidian to see the slide images and the folded an
 | L09 | [Predicate logic and planning](<lessons/CMPE421 L09 - Predicate logic and planning.md>) | not yet |
 | L10 | [Quantifying uncertainty](<lessons/CMPE421 L10 - Quantifying uncertainty.md>) | 39 |
 
-10 lessons, 312 check questions, 656 slide images.
+10 lessons, 368 check questions, 656 slide images.
 
 ## Folders
 
