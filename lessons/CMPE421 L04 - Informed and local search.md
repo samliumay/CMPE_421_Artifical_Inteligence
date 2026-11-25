@@ -347,7 +347,6 @@ $h(x)=\max(h_a(x),h_b(x))$ is admissible and dominates both. Faking dominance: $
 > The slide gives only the node counts $N$: 3,473,941 (IDS), 539 ($h_1$), 113 ($h_2$) at $d=14$, and 39,135 ($h_1$), 1,641 ($h_2$) at $d=24$. The slide gives no $b^{*}$ values. The values below are computed here: put the slide's $N$ and $d$ into the equation and solve it for $b^{*}$ numerically.
 > - $d=14$: IDS about 2.84, A* with $h_1$ about 1.44, A* with $h_2$ about 1.25.
 > - $d=24$: A* with $h_1$ about 1.48, A* with $h_2$ about 1.28.
->
 
 > [!question]- Check (informed-search, slide 44): (a) From the table: how many times fewer nodes does A* with $h_2$ need than A* with $h_1$ at $d=14$ and at $d=24$? (b) A search finds a solution at depth $d=5$ and generates $N=62$ nodes. Show that its effective branching factor is $b^{*}=2$.
 > (a) $d=14$: $539/113\approx 4.8$ times. $d=24$: $39135/1641\approx 23.8$ times. The advantage of the dominating heuristic grows with the depth.
