@@ -422,3 +422,4 @@ Allais paradox (slide 74): most people prefer $B=[1.0,\$3\text{k}]$ over $A=[0.8
 - Full step-by-step notes (PDF): [CMPE421_Lecture_06_Adversarial_Search.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lecture_notes/lecture_06/CMPE421_Lecture_06_Adversarial_Search.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lecture_notes/lecture_06/CMPE421_Lecture_06_Adversarial_Search.pdf`
 - Original slides (PowerPoint only): [Ch.6.pptx](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_06/Ch.6.pptx) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_06/Ch.6.pptx`
 - Second deck: [Ch.6-contd.pptx](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_06/Ch.6-contd.pptx) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_06/Ch.6-contd.pptx`
+- Quiz: [[CMPE421 L06 - Adversarial search and games - quiz]]
