@@ -668,5 +668,6 @@ A **utility function** maps a state (or a sequence of states) to a real number. 
 - Full step-by-step notes (PDF): [CMPE421_Lecture_02_Intelligent_Agents.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lecture_notes/lecture_02/CMPE421_Lecture_02_Intelligent_Agents.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lecture_notes/lecture_02/CMPE421_Lecture_02_Intelligent_Agents.pdf`
 - Original slides (PDF): [Ch.2.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_02/Ch.2.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_02/Ch.2.pdf`
 - Handout (PDF, 24 pages): [intelligent-agents.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_02/intelligent-agents.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_02/intelligent-agents.pdf`
+- Quiz: [[CMPE421 L02 - Intelligent agents - quiz]]
 
 Slides not embedded (Ch.2): 1 (title), 4 (media placeholder), 32, 33, 36, 39, 43, 46, 49 (earlier builds of the environment table). Handout: only pages 5, 9, 16, 20 are embedded. The rest repeats the deck.
