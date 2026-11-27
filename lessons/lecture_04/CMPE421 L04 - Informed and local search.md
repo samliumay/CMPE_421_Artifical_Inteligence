@@ -732,5 +732,6 @@ $$\mathbf x\leftarrow\mathbf x-\alpha\,\nabla f(\mathbf x)\quad(\text{minimise, 
 - Original slides (PDF): [informed-search.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_04/informed-search.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_04/informed-search.pdf`
 - Original slides (PDF): [local-search.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_04/local-search.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_04/local-search.pdf`
 - Instructor's deck "Search continued" (PDF, 50 pages): [Ch.4.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_03/Ch.4.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_03/Ch.4.pdf`
+- Quiz: [[CMPE421 L04 - Informed and local search - quiz]]
 
 Slides not embedded (informed-search): 10-13, 26-29, 32-35, 40, 42, 47-50 (earlier builds of the next embedded slide). Local-search: 4 (outline). Ch.4: only pages 10, 11, 12, 22, 40, 41 are embedded. The rest repeats the material above or is a video placeholder.
