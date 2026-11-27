@@ -576,5 +576,6 @@ Failing to detect repeated states can turn a linear problem into an exponential 
 - Original slides (PDF): [Ch.3.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_03/Ch.3.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_03/Ch.3.pdf`
 - Handout (PDF, 77 pages): [uninformed-search.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_03/uninformed-search.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_03/uninformed-search.pdf`
 - The deck `Ch.4.pdf` in the same folder ("Search continued") belongs to the Lecture 4 topic.
+- Quiz: [[CMPE421 L03 - Uninformed search - quiz]]
 
 Slides not embedded (Ch.3): 1, 3, 11, 18, 25, 31, 33, 36, 39, 45 (titles), 6, 7, 9, 10, 41, 42, 49-52 (video placeholders). Handout: only pages 2-5, 10, 17, 19, 30, 57, 58, 67-70 are embedded. The rest are step-by-step traces of BFS, DFS, UCS and IDS, and repeats of the deck.
