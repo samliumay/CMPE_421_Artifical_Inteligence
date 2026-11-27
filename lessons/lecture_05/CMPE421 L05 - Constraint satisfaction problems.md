@@ -498,5 +498,6 @@ From a random start, min-conflicts solves $n$-queens in almost constant time for
 - Handout slides (PDF): [csp.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_05/csp.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_05/csp.pdf`
 - Instructor's deck A (pptx): [Ch.5.pptx](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_05/Ch.5.pptx) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_05/Ch.5.pptx`
 - Instructor's deck B (pptx): [Ch.5-contd.pptx](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_05/Ch.5-contd.pptx) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_05/Ch.5-contd.pptx`
+- Quiz: [[CMPE421 L05 - Constraint satisfaction problems - quiz]]
 
 Slides not embedded (csp.pdf): 11-13 (earlier builds of slide 14), 38 (summary, same as the box at the top).
