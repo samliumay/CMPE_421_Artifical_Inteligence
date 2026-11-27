@@ -649,3 +649,4 @@ With all axioms and a resolution prover the agent can ask where it is, where the
 - Next lecture: [[CMPE421 L09 - Predicate logic and planning]]
 - Full step-by-step notes (PDF): [CMPE421_Lecture_08_Logical_Agents.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lecture_notes/lecture_08/CMPE421_Lecture_08_Logical_Agents.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lecture_notes/lecture_08/CMPE421_Lecture_08_Logical_Agents.pdf`
 - Original slides (PDF, stored in the lecture_07 folder): [logical-agents.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_07/logical-agents.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_07/logical-agents.pdf`
+- Quiz: [[CMPE421 L08 - Logical agents - quiz]]
