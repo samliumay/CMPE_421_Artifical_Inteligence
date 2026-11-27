@@ -10,7 +10,7 @@ Exams ask to trace algorithms by hand (search, CSP, minimax, logic inference, pr
 ## Sources, in priority order
 
 1. **Lesson note** (my notes, slide by slide, with 32 check questions and their answers): `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/CMPE_421_Artificial_Intelligence/lessons/lecture_05/CMPE421 L05 - Constraint satisfaction problems.md`
-2. **Quiz note:** not written yet for this lesson. Use the check questions of the lesson note.
+2. **Quiz note** (32 multiple-choice questions, one per check question, each with a folded answer that explains every option): `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/CMPE_421_Artificial_Intelligence/lessons/lecture_05/CMPE421 L05 - Constraint satisfaction problems - quiz.md`
 3. **Slide images** (one jpg per slide; the lesson note embeds them as `![[<deck>_pNNN.jpg]]`): `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/CMPE_421_Artificial_Intelligence/others/slides/cmpe421_lecture_05_csp`
 4. **Original slides (PDF):** `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_05/csp.pdf`
 5. **Full step-by-step notes:** `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lecture_notes/lecture_05/CMPE421_Lecture_05_CSP.pdf` (LaTeX source: `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lecture_notes/lecture_05/lecture_05.tex`)

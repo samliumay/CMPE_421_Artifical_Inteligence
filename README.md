@@ -19,16 +19,16 @@ Open the folder as a vault in Obsidian to see the slide images and the folded an
 
 | Lecture | Topic | Check questions | Multiple choice |
 |---|---|---|---|
-| L01 | [What is AI](<lessons/lecture_01/CMPE421 L01 - What is AI.md>) | 24 | not yet |
-| L02 | [Intelligent agents](<lessons/lecture_02/CMPE421 L02 - Intelligent agents.md>) | 62 | not yet |
-| L03 | [Uninformed search](<lessons/lecture_03/CMPE421 L03 - Uninformed search.md>) | 45 | not yet |
-| L04 | [Informed and local search](<lessons/lecture_04/CMPE421 L04 - Informed and local search.md>) | 56 | not yet |
-| L05 | [Constraint satisfaction problems](<lessons/lecture_05/CMPE421 L05 - Constraint satisfaction problems.md>) | 32 | not yet |
-| L06 | [Adversarial search and games](<lessons/lecture_06/CMPE421 L06 - Adversarial search and games.md>) | 28 | not yet |
-| L07 | [MDPs, probability, Bayes nets, HMMs](<lessons/lecture_07/CMPE421 L07 - MDPs, probability, Bayes nets, HMMs.md>) | 28 | not yet |
-| L08 | [Logical agents](<lessons/lecture_08/CMPE421 L08 - Logical agents.md>) | 54 | not yet |
-| L09 | [Predicate logic and planning](<lessons/lecture_09/CMPE421 L09 - Predicate logic and planning.md>) | 94 | not yet |
-| L10 | [Quantifying uncertainty](<lessons/lecture_10/CMPE421 L10 - Quantifying uncertainty.md>) | 39 | not yet |
+| L01 | [What is AI](<lessons/lecture_01/CMPE421 L01 - What is AI.md>) | 24 | [quiz](<lessons/lecture_01/CMPE421 L01 - What is AI - quiz.md>) |
+| L02 | [Intelligent agents](<lessons/lecture_02/CMPE421 L02 - Intelligent agents.md>) | 62 | [quiz](<lessons/lecture_02/CMPE421 L02 - Intelligent agents - quiz.md>) |
+| L03 | [Uninformed search](<lessons/lecture_03/CMPE421 L03 - Uninformed search.md>) | 45 | [quiz](<lessons/lecture_03/CMPE421 L03 - Uninformed search - quiz.md>) |
+| L04 | [Informed and local search](<lessons/lecture_04/CMPE421 L04 - Informed and local search.md>) | 56 | [quiz](<lessons/lecture_04/CMPE421 L04 - Informed and local search - quiz.md>) |
+| L05 | [Constraint satisfaction problems](<lessons/lecture_05/CMPE421 L05 - Constraint satisfaction problems.md>) | 32 | [quiz](<lessons/lecture_05/CMPE421 L05 - Constraint satisfaction problems - quiz.md>) |
+| L06 | [Adversarial search and games](<lessons/lecture_06/CMPE421 L06 - Adversarial search and games.md>) | 28 | [quiz](<lessons/lecture_06/CMPE421 L06 - Adversarial search and games - quiz.md>) |
+| L07 | [MDPs, probability, Bayes nets, HMMs](<lessons/lecture_07/CMPE421 L07 - MDPs, probability, Bayes nets, HMMs.md>) | 28 | [quiz](<lessons/lecture_07/CMPE421 L07 - MDPs, probability, Bayes nets, HMMs - quiz.md>) |
+| L08 | [Logical agents](<lessons/lecture_08/CMPE421 L08 - Logical agents.md>) | 54 | [quiz](<lessons/lecture_08/CMPE421 L08 - Logical agents - quiz.md>) |
+| L09 | [Predicate logic and planning](<lessons/lecture_09/CMPE421 L09 - Predicate logic and planning.md>) | 94 | [quiz](<lessons/lecture_09/CMPE421 L09 - Predicate logic and planning - quiz.md>) |
+| L10 | [Quantifying uncertainty](<lessons/lecture_10/CMPE421 L10 - Quantifying uncertainty.md>) | 39 | [quiz](<lessons/lecture_10/CMPE421 L10 - Quantifying uncertainty - quiz.md>) |
 
 10 lessons, 462 check questions, 656 slide images.
 

@@ -10,7 +10,7 @@ Exams ask to trace algorithms by hand (search, CSP, minimax, logic inference, pr
 ## Sources, in priority order
 
 1. **Lesson note** (my notes, slide by slide, with 24 check questions and their answers): `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/CMPE_421_Artificial_Intelligence/lessons/lecture_01/CMPE421 L01 - What is AI.md`
-2. **Quiz note:** not written yet for this lesson. Use the check questions of the lesson note.
+2. **Quiz note** (24 multiple-choice questions, one per check question, each with a folded answer that explains every option): `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/CMPE_421_Artificial_Intelligence/lessons/lecture_01/CMPE421 L01 - What is AI - quiz.md`
 3. **Slide images** (one jpg per slide; the lesson note embeds them as `![[<deck>_pNNN.jpg]]`): `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/CMPE_421_Artificial_Intelligence/others/slides/cmpe421_lecture_01_ch_1_ab`
 4. **Original slides (PDF):** `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_01/Ch.1_AB.pdf`
 5. **Full step-by-step notes:** `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lecture_notes/lecture_01/CMPE421_Lecture_01_What_is_AI.pdf` (LaTeX source: `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lecture_notes/lecture_01/lecture_01.tex`)

@@ -10,7 +10,7 @@ Exams ask to trace algorithms by hand (search, CSP, minimax, logic inference, pr
 ## Sources, in priority order
 
 1. **Lesson note** (my notes, slide by slide, with 39 check questions and their answers): `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/CMPE_421_Artificial_Intelligence/lessons/lecture_10/CMPE421 L10 - Quantifying uncertainty.md`
-2. **Quiz note:** not written yet for this lesson. Use the check questions of the lesson note.
+2. **Quiz note** (39 multiple-choice questions, one per check question, each with a folded answer that explains every option): `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/CMPE_421_Artificial_Intelligence/lessons/lecture_10/CMPE421 L10 - Quantifying uncertainty - quiz.md`
 3. **Slide images** (one jpg per slide; the lesson note embeds them as `![[<deck>_pNNN.jpg]]`): `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/CMPE_421_Artificial_Intelligence/others/slides/cmpe421_lecture_07_quantifyinguncertainty`
 4. **Original slides (PDF):** `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_07/QuantifyingUncertainty.pdf`
 5. **Full step-by-step notes:** `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lecture_notes/lecture_10/CMPE421_Lecture_10_Quantifying_Uncertainty.pdf` (LaTeX source: `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lecture_notes/lecture_10/lecture_10.tex`)
