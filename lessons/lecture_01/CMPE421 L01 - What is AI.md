@@ -350,5 +350,6 @@ Pattern: clear rules and a clear score make a task easy for AI. A body in an unp
 - Next lecture: [[CMPE421 L02 - Intelligent agents]]
 - Full step-by-step notes (PDF): [CMPE421_Lecture_01_What_is_AI.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lecture_notes/lecture_01/CMPE421_Lecture_01_What_is_AI.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lecture_notes/lecture_01/CMPE421_Lecture_01_What_is_AI.pdf`
 - Original slides (PDF): [Ch.1_AB.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_01/Ch.1_AB.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_01/Ch.1_AB.pdf`
+- Quiz: [[CMPE421 L01 - What is AI - quiz]]
 
 Slides not embedded: 1, 2, 7 (titles), 21-24 (repeats of slide 20), 27 (laptop policy), 29 (section title), 30 (video placeholder).
