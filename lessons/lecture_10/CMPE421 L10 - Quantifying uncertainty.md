@@ -544,3 +544,4 @@ Slides not embedded: PDF page 3 (printed 4, outline), PDF page 46 (printed 47, h
 - The logical wumpus agent: [[CMPE421 L08 - Logical agents]]
 - Full step-by-step notes (PDF): [CMPE421_Lecture_10_Quantifying_Uncertainty.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lecture_notes/lecture_10/CMPE421_Lecture_10_Quantifying_Uncertainty.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lecture_notes/lecture_10/CMPE421_Lecture_10_Quantifying_Uncertainty.pdf`
 - Original slides (PDF, stored in the lecture_07 folder): [QuantifyingUncertainty.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_07/QuantifyingUncertainty.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_421/lectures/lecture_07/QuantifyingUncertainty.pdf`
+- Quiz: [[CMPE421 L10 - Quantifying uncertainty - quiz]]
